@@ -1,2 +1,10 @@
 # Ecommerce Website
  Ecommerce Website in PHP MySQL
+
+**Database Name: ecom_store**
+**Recommended PHP Version 5.6 and Newer**
+**Admin Panel: /admin_area **
+**Admin Login Details**
+
+Username: admin@mail.com
+Password: Password@123
